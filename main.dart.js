@@ -66186,8 +66186,8 @@ A.TW.prototype={
 $0(){A.apa($.bO())},
 $S:0}
 A.CI.prototype={
-O(a){var s,r=null,q={},p=t.w,o=q.a=B.d.d8(A.co(a,r,p).w.a.a/200)
-if(o<1)o=2
+O(a){var s,r=null,q={},p=t.w,o=q.a=B.d.d8(A.co(a,r,p).w.a.a/200+0.5)
+if(o<2)o=2
 q.a=o
 p=A.co(a,r,p).w
 s=A.aci("Gallery",B.Kr)
